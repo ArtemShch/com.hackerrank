@@ -21,6 +21,5 @@ public class Day0HelloWorld {
         // Print a string literal saying "Hello, World." to stdout.
         System.out.println("Hello, World.");
         System.out.println(inputString);
-        //15313131351351351313151351351351313515313
     }
 }
