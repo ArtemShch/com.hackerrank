@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-/*
- * Created by Артем on 11.01.2017.
- */
 public class Day2Operators {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
