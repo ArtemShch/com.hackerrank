@@ -13,7 +13,7 @@ public class BinaryNumbers {
         int n = in.nextInt();
         String res = Integer.toString(n, 2);
         in.close();
-        
+
         String[] arr = res.split("0");
         int max = 0;
         for (String anArr : arr) {
