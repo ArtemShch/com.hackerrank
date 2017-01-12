@@ -1,7 +1,19 @@
 import java.util.Scanner;
 
 /*
- * Created by Артем on 12.01.2017.
+ Test:
+ Sample Input
+
+Heraldo Memelli 8135627
+2
+100 80
+
+Sample Output
+
+ Name: Memelli, Heraldo
+ ID: 8135627
+ Grade: O
+
  */
 class PersonDay12 {
     protected String firstName;
