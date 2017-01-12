@@ -1,4 +1,4 @@
-package Day22BinarySearchTrees.Node;
+package Day22BinarySearchTrees;
 
 class Node{
     Node left,right;
