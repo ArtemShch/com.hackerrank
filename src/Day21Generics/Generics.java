@@ -1,5 +1,24 @@
 package Day21Generics;
+/*
+тест
+ввод
+3
+1
+2
+3
+2
+Hello
+World
 
+вывод
+3
+1
+2
+3
+2
+Hello
+World
+ */
 import java.util.Scanner;
 
 public class Generics {
